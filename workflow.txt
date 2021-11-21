@@ -1,0 +1,42 @@
+- configure pom.xml : jsp, JPA , loombok , spring security , ...
+
+- configure spring mvc
+
+- configure mysql
+
+- create entities 
+
+- build login with spring security
+
+- build controller
+
+- handle : sort , page ,search in shop page
+
+- handle : call api cart , code api in file javascript.js ,..
+
+
+
+*Note :
+- register need name : done
+- rebuild CustomAccessHandler ( and somethings of security ) : done
+- detail order has only name : done
+
+*New knowledge
+- handle filter products
+- spring security : authentication / authorization
+- handle upload file
+- query by EntityManager in product service
+- send mail
+- configure spring mvc
+
+** 11/11
+- rebuild call api : done
+- favorite products : done
+- rate : done
+- comment : use plugin facebook
+- control admin :done
+- admin collection : done
+** deploy
+- change database
+- change storage 
+- configure pom to build war file  
